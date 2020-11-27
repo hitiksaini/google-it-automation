@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/hitiksaini/Google-IT-Automation/main/cert.jpg" >
 
-#### `All copyrighted materials belong to Coursera, this repository created for reference purpose.`
+#### `All copyrighted materials belong to Coursera, this repository is created for reference purpose.`
 
 ## About this Professional Certificate
 
@@ -20,3 +20,9 @@ This certificate can be completed in about 6 months and is designed to prepare y
 ### `Python Programming`
 ### `Configuration Management`
 ### `Automation`
+
+## Take aways from this Specialization
+#### Automate tasks by writing Python scripts
+#### Use Git and GitHub for version control
+#### Manage IT resources at scale, both for physical machines and virtual machines in the cloud
+#### Analyze real-world IT problems and implement the appropriate strategies to solve those problems
