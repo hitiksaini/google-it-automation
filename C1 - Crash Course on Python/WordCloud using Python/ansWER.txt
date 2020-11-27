@@ -1,0 +1,18 @@
+    # LEARNER CODE START HERE
+    ans=[]
+    final={}
+    for words in file_contents.split():
+        if words.isalpha() and words.lower() not in uninteresting_words:
+            ans.append(words.lower())
+    for words in ans:
+        if words not in final:
+            final[words] =0
+        final[words]+=file_contents.split().count(words)
+ 
+             
+        return final
+        
+    #wordcloud
+    cloud = wordcloud.WordCloud(width=750,height=550, max_words=1500,relative_scaling=1,normalize_plurals=False)
+    cloud.generate_from_frequencies(calculate_frequencies)
+    return cloud.to_array()
