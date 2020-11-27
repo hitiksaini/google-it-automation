@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/hitiksaini/Google-IT-Automation/main/cert.jpg" >
 
-#### `All copyrighted materials belong to Coursera, this repository is created for reference purpose.`
+<b>All copyrighted materials belong to Coursera, this repository is created for reference purpose. </b>
 
 ## About this Professional Certificate
 
