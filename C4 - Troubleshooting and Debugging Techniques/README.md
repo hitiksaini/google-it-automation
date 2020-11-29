@@ -1,5 +1,11 @@
 ### Approx. 19 hours to complete
 
+In this course, we'll give you the tools to quickly identify and solve real-world problems that you might come across in your IT role. We'll look at a bunch of different strategies and approaches for tackling the most common pitfalls of your code and IT infrastructure. You'll learn strategies for approaching almost any technical problem and then see how those apply to solving different real-world scenarios. 
+
+We picked examples that include general system issues, issues with software that someone else wrote, and issues with programs that we wrote. We'll talk about problems that can affect any operating system, and we'll also look at challenges specific to certain platforms and scripting languages.
+
+We strongly recommend that you’ve taken the prior courses in this program, or already have knowledge of Python and Linux so that you can follow along with our troubleshooting examples.
+
 #### WEEK 1
 ### `Troubleshooting Concepts`
 In this module, you’ll be introduced to the fundamentals of troubleshooting and you’ll learn different strategies and approaches to tackle problems that you might encounter. You’ll learn about the concept of debugging and how debugging is one of the core principles of troubleshooting. You’ll be introduced to some tools that will help you in the debugging process, like tcpdump, ps, top, itrace, and lots more. Next, you’ll explore how to “understand the problem.” This might sound like a no brainer, but it's not as easy as you might think! Next, we’ll dive into the different approaches when troubleshooting reproducing errors versus intermittent errors. Finally, you’ll learn about “binary searching a problem.” We’ll explore the different types of searches, including binary and linear searches. Then, we’ll learn about the concept of bisecting and how it can be used in your troubleshooting approach, and finish up with finding invalid data in a CSV file.
