@@ -8,3 +8,27 @@ Next, we'll show you how to communicate with the world outside of your code! You
 
 At the end of this course, you’ll be able to take a description of a problem and use your skills to create a solution -- just like you would on the job. In your final capstone project, you'll be given a description of what your customer needs, and it will be up to you to create a program to do it!
 
+#### WEEK 1
+### `Manipulating Images`
+8 readings
+expandweek 1 material
+
+Graded: Qwiklabs Assessment: Scale and convert images using PIL
+#### WEEK 2
+### `Interacting with Web Services`
+10 readings
+expandweek 2 material
+
+Graded: Qwiklabs Assessment: Process Text Files with Python Dictionaries and Upload to Running Web Service
+#### WEEK 3
+### `Automatic Output Generation`
+8 readings
+expandweek 3 material
+
+Graded: Qwiklabs Assessment: Automatically Generate a PDF and send it by Email
+#### WEEK 4
+### `Putting It All Together`
+1 video, 3 readings
+expandweek 4 material
+
+Graded: Qwiklabs Assessment: Automate updating catalog information
